@@ -1,9 +1,10 @@
 # MuscleSensor
 Muscle Sensor- Chip Interface
 
-This project looks at MyoWare muscle sensor (AT-04-001). The muscle sensors measures muscle activity through the electric potential of the muscle, which is commonly referred as electromyography. Underestanding electromyography to create a DIY low-cost version of EMG is very essential.  
+This project looks at MyoWare muscle sensor (AT-04-001). The muscle sensors measures muscle activity through the electric potential of the muscle, which is commonly referred as electromyography. Understanding electromyography to create a DIY low-cost version of EMG is very essential. The muscle sensors will analyze electrical activity and output an analog signal that represents how hard the muscle is being flexed this is what we did in the project. 
 
-The muscle sensors will analyze electrical activity and output an analog signal that represents how hard the muscle is being flexed this is what we did in the project. 
+Installing the MyoWare muscle sensor- 
+Componenets required to interface the sensor other than MyoWare muscle sensor (AT-04-001): EMG electrodes, Arduino, breadboard, wires, USB cabel. 
 
 Please take a look at my wiki page for circuit setup and basic understanding of the project. 
 
